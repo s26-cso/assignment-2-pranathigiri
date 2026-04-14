@@ -1,0 +1,3 @@
+
+target_pranathigiri:     file format elf64-little
+
